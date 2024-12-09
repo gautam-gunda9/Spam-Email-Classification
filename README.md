@@ -17,7 +17,7 @@
 <h3>Technologies Used</h3>
 <b>Programming Languages</b>: Python
 
-<b>Libraries</>: Scikit-learn, Pandas, NLTK, TfidfVectorizer
+<b>Libraries</b>: Scikit-learn, Pandas, NLTK, TfidfVectorizer
 
 <b>Tools</b>: Jupyter Notebook, SQL, Git, Streamlit
 
